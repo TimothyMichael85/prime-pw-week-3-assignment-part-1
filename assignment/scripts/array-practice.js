@@ -110,4 +110,4 @@ console.log('the noms are now a string! ',andArray);
 //     ['pizza', 'pasta', 'fish', 'cat', 'bird', 'dog']
 
 let combinedArray = foodArray+(',')+animalArray;
-console.log ('I have combined my favorite food and my animals into', combinedArray); 
+console.log ('I have combined my favorite food and my animals into 1 array:', combinedArray); 
